@@ -3,11 +3,11 @@
 Add `dayjs.range()` to yield each day between some period
 
 ```
-npm install -S dayjs-range-support
+npm install -S @fsubal/dayjs-range-support
 ```
 
 ```
-yarn add dayjs-range-support
+yarn add @fsubal/dayjs-range-support
 ```
 
 ## Usage
