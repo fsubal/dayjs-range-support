@@ -12,6 +12,8 @@ yarn add @fsubal/dayjs-range-support
 
 ## Usage
 
+`dayjs.range()` returns a **generator** (not `dayjs.Dayjs[]`)!
+
 ```ts
 Array.from(dayjs.range('2020-12-01', '2020-12-31'))
 [...dayjs.range('2020-12-01', '2020-12-31')]
